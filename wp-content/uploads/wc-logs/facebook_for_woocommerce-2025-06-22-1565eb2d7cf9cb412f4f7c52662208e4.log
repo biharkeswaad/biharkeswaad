@@ -1,0 +1,143 @@
+2025-06-22T16:30:48+00:00 WARNING Product feed scheduling failed: Integration not configured. : {"flow_name":"product_feed","flow_step":"schedule_feed_generation"}
+2025-06-22T16:30:48+00:00 ERROR Error persisting error logs: Cannot create the API instance because the access token is missing. : []
+2025-06-22T16:30:48+00:00 NOTICE Unable to detect valid feed configuration: No catalog ID
+2025-06-22T16:30:48+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-06-22T16:33:33+00:00 DEBUG User visited the Facebook for WooCommerce settingsshopstab : {"flow_name":"settings","flow_step":"shops_tab_rendered"}
+2025-06-22T16:36:50+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-06-22T16:43:03+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-06-22T16:45:55+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-06-22T16:49:33+00:00 DEBUG User visited the Facebook for WooCommerce settingsshopstab : {"flow_name":"settings","flow_step":"shops_tab_rendered"}
+2025-06-22T16:51:37+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-06-22T16:51:39+00:00 DEBUG User visited the Facebook for WooCommerce settingsshopstab : {"flow_name":"settings","flow_step":"shops_tab_rendered"}
+2025-06-22T16:56:43+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-06-22T17:01:29+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-06-22T17:06:29+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-06-22T17:12:31+00:00 ERROR Error persisting Meta logs: Cannot create the API instance because the access token is missing. : []
+2025-06-22T17:12:45+00:00 NOTICE WebHook User Event received
+2025-06-22T17:12:45+00:00 NOTICE stdClass Object
+(
+    [entry] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 122108971616908791
+                    [time] => 1750612361
+                    [uid] => 122108971616908791
+                    [changes] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [field] => fbe_install
+                                    [value] => stdClass Object
+                                        (
+                                            [business_manager_id] => 1827251477837885
+                                            [business_id] => biharkeswaad-68582fb8c4870
+                                            [catalog_id] => 8703938379730901
+                                            [fbe_event] => INSTALL
+                                            [flow] => DEFAULT
+                                            [profiles] => Array
+                                                (
+                                                    [0] => 710655548793745
+                                                )
+
+                                            [pages] => Array
+                                                (
+                                                    [0] => 710655548793745
+                                                )
+
+                                            [install_time] => 1750612357
+                                            [pixel_id] => 1394252301789013
+                                            [access_token] => EAAGvQJc4NAQBO0P03UG2yfCSio9yA7cLsTMYvWQxN00G5InrkWt8k9g6fFj05P0GgHcgCxjdkEygTeOZBAPhQvq8zwKTwzXjpWOIDnyRKix97WoAXFqghsTetSb2nDTzqgtqKZAFvlwUHO4t1cJjZCX4nO72z5ZA56hlGRH9pmZC2ZA0EtI8M7woL2pIY9kDZA9kgZDZD
+                                            [onsite_eligible] => 
+                                            [token_type] => System User
+                                            [installed_features] => Array
+                                                (
+                                                    [0] => stdClass Object
+                                                        (
+                                                            [feature_instance_id] => 3712680829030510
+                                                            [feature_type] => pixel
+                                                            [connected_assets] => stdClass Object
+                                                                (
+                                                                    [business_manager_id] => 1827251477837885
+                                                                    [page_id] => 710655548793745
+                                                                    [pixel_id] => 1394252301789013
+                                                                )
+
+                                                            [additional_info] => stdClass Object
+                                                                (
+                                                                    [onsite_eligible] => 
+                                                                    [pixel_is_consolidated_container] => 
+                                                                )
+
+                                                        )
+
+                                                    [1] => stdClass Object
+                                                        (
+                                                            [feature_instance_id] => 2457900284588426
+                                                            [feature_type] => catalog
+                                                            [connected_assets] => stdClass Object
+                                                                (
+                                                                    [business_manager_id] => 1827251477837885
+                                                                    [catalog_id] => 8703938379730901
+                                                                    [page_id] => 710655548793745
+                                                                    [pixel_id] => 1394252301789013
+                                                                )
+
+                                                            [additional_info] => stdClass Object
+                                                                (
+                                                                    [onsite_eligible] => 
+                                                                    [pixel_is_consolidated_container] => 
+                                                                )
+
+                                                        )
+
+                                                    [2] => stdClass Object
+                                                        (
+                                                            [feature_instance_id] => 1597084661247214
+                                                            [feature_type] => external_client
+                                                            [connected_assets] => stdClass Object
+                                                                (
+                                                                    [business_manager_id] => 1827251477837885
+                                                                )
+
+                                                            [additional_info] => stdClass Object
+                                                                (
+                                                                    [onsite_eligible] => 
+                                                                )
+
+                                                        )
+
+                                                    [3] => stdClass Object
+                                                        (
+                                                            [feature_instance_id] => 1503559737688706
+                                                            [feature_type] => ads
+                                                            [connected_assets] => stdClass Object
+                                                                (
+                                                                    [business_manager_id] => 1827251477837885
+                                                                    [catalog_id] => 8703938379730901
+                                                                    [page_id] => 710655548793745
+                                                                    [pixel_id] => 1394252301789013
+                                                                )
+
+                                                            [additional_info] => stdClass Object
+                                                                (
+                                                                    [onsite_eligible] => 
+                                                                    [pixel_is_consolidated_container] => 
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [object] => user
+)

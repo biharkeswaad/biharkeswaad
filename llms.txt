@@ -1,0 +1,493 @@
+﻿# Bihar Ke Swaad
+
+> Anupama Ke Saath
+
+
+## Posts
+
+- [Hello world!](https://biharkeswaad.shop/hello-world/): Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
+
+## Pages
+
+- [RETURNS AND REFUNDS POLICY](https://biharkeswaad.shop/returns-and-refunds-policy/): Returns, Refunds & Cancellations Policy At Bihar Ke Swaad, we take immense pride in preparing each order fresh, on-demand and with personal care. Due to the perishable nature of our food products and the handcrafted process behind every item, we follow a strict no-cancellation, no-return, and no-refund policy. ❌ No Returns or Exchanges ❌ No Refunds or Cancellations ✅ Exceptions – Damaged or Wrong Products In rare cases of: Please notify us within 24 hours of receiving the package, along with: We will review the case and offer a replacement or partial refund if eligible — solely at our discretion. […]
+- [SHIPPING POLICY](https://biharkeswaad.shop/shipping-policy/): At Bihar Ke Swaad, we understand the value of timely and safe delivery — especially when it comes to handcrafted food items. We’ve partnered with Shiprocket, one of India’s leading logistics platforms, to ensure your order reaches you fresh and intact. 🚚 Where We Deliver We deliver across pan India, covering most pin codes through trusted courier partners via Shiprocket. ⏱️ Processing & Shipping Time 📦 Packaging ❗ Important Notes 📩 Need Help? If you face any delivery issue or want to track your order, feel free to contact us:📧 Email: support@biharkeswaad.shop📦 Or check the order status from your account […]
+- [TERMS AND CONDITIONS](https://biharkeswaad.shop/terms-and-conditions/): Effective Date: 20th June 2023Website: https://biharkeswaad.shopCompany Name: Bihar Ke Swaad 1. Introduction Welcome to Bihar Ke Swaad. By accessing or using our website and purchasing our products, you agree to be bound by the following terms and conditions. If you do not agree with any part of these terms, please do not use our website. 2. Products and Services All products listed on our website are handmade and prepared fresh upon order. As our products are food-based: We reserve the right to discontinue or modify any product at any time without notice. 3. Orders and Payment 4. Shipping and Delivery […]
+- [Password Reset](https://biharkeswaad.shop/password-reset/)
+- [Account](https://biharkeswaad.shop/account/)
+- [Logout](https://biharkeswaad.shop/logout/)
+- [Members](https://biharkeswaad.shop/members/)
+- [Register](https://biharkeswaad.shop/register/)
+- [Login](https://biharkeswaad.shop/login/)
+- [User](https://biharkeswaad.shop/user/)
+- [Contact Us](https://biharkeswaad.shop/contact-us/): Contact Details Find Us
+- [About Us](https://biharkeswaad.shop/about-us/): Our Story What Makes Us Special ❤️ Homemade with LoveWe craft each item—whether it’s Balushahi, Laung Lata, Thekua, or tangy pickles—by hand, in small batches, just like in Indian homes. We never compromise on authenticity or quality.🌱 Fresh & Preservative-FreeMade to order, our products contain no preservatives or artificial colors. They’re as wholesome and fresh as homemade delights should be.🚚 Seamless Delivery with ShiprocketThanks to our integration with Shiprocket, your order arrives quickly and safely—fresh, intact, and ready to savor. Meet Anupama At the heart of this venture is Anupama, whose childhood memories of family feasts and festive cooking imbued a […]
+- [Store](https://biharkeswaad.shop/store/): Featured Our Collection
+- [My Account](https://biharkeswaad.shop/my-account/)
+- [Checkout](https://biharkeswaad.shop/checkout/)
+- [Cart](https://biharkeswaad.shop/cart/)
+- [Shop](https://biharkeswaad.shop/shop/)
+- [Home](https://biharkeswaad.shop/): Featured Browse our collection of Sweets, Snacks, and Pickles — all freshly made and delivered from our kitchen to your doorstep. And it all begins at the heart: Bihar Ke Swaad Anupama Ke Saath Your home for authentic, quality Bihari flavors.
+- [Privacy Policy](https://biharkeswaad.shop/privacy-policy/): Effective Date: 20th June 2023Company Name: Bihar Ke SwaadWebsite: https://biharkeswaad.shop 1. Introduction At Bihar Ke Swaad, your privacy is our priority. This Privacy Policy explains how we collect, use, protect, and handle your personal information when you visit or make a purchase from our website https://biharkeswaad.shop. 2. What Information We Collect When you browse, register, or place an order on our website, we may collect the following information: 3. How We Use Your Information We use the information we collect to: 4. Sharing Your Information We do not sell, rent, or trade your personal information.We may share your data with […]
+
+## Products
+
+- [Bihar Style Stuffed Red Chillies Pickle – Homemade Traditional Achar (500 g) | लाल मिर्च का भरवां अचार](https://biharkeswaad.shop/product/bihari-stuffed-red-chillies-pickle-homemade/): Authentic homemade Stuffed Red Chillies Pickle from Bihar, made using traditional recipes and ingredients.
+<h3 data-start="387" data-end="413"><strong data-start="394" data-end="413">Product Details</strong></h3>
+<ul data-start="415" data-end="702">
+ 	<li data-start="415" data-end="456">
+<p data-start="417" data-end="456"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian</span></p>
+</li>
+ 	<li data-start="415" data-end="456">
+<p data-start="417" data-end="456"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="28" data-end="48">No Preservatives:</strong> Contains native spices</span></p>
+</li>
+ 	<li data-start="457" data-end="498">
+<p data-start="459" data-end="498"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Weight Options:</strong> 500 g</span></p>
+</li>
+ 	<li data-start="499" data-end="540">
+<p data-start="501" data-end="540"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Recyclable, food-grade glass/mason jar</span></p>
+</li>
+ 	<li data-start="541" data-end="620">
+<p data-start="543" data-end="620"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="15" data-is-only-node="">Shelf Life:</strong> Up to <strong data-start="22" data-end="35">12 months</strong>, naturally preserved in mustard oil & spices</span></p>
+</li>
+ 	<li data-start="621" data-end="662">
+<p data-start="623" data-end="662"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days (via Shiprocket)</span></p>
+</li>
+ 	<li data-start="663" data-end="702">
+<p data-start="665" data-end="702"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Bihar, India</span></p>
+</li>
+</ul>
+- [Bihari Shudh Ghee Gaja (500 g) | Homemade Traditional Bihari Sweet | गाजा](https://biharkeswaad.shop/product/bihari-gaja-homemade/): Authentic homemade Gaja from Bihar, made using traditional recipes and ingredients.
+<ul>
+ 	<li data-start="808" data-end="833">
+<p data-start="810" data-end="833">Diet Type: Vegetarian</p>
+</li>
+ 	<li data-start="834" data-end="865">
+<p data-start="836" data-end="865">Weight Options: 500 g</p>
+</li>
+ 	<li data-start="866" data-end="895">
+<p data-start="868" data-end="895">Packaging: Food-grade box</p>
+</li>
+ 	<li data-start="937" data-end="973">
+<p data-start="939" data-end="973">Delivery Time: 3–5 business days</p>
+</li>
+ 	<li data-start="974" data-end="996">
+<p data-start="976" data-end="996">Origin: Bihar, India</p>
+</li>
+</ul>
+- [Bihari Namak Para (Maida Nimki) – Homemade Savory Snack (500 g) | नमक पारा | निमकी (मैदा)](https://biharkeswaad.shop/product/bihari-namak-para-maida-nimki-homemade/): Authentic homemade Namak Para from Bihar, made using traditional recipes and ingredients.
+<h3 data-start="201" data-end="227"><strong data-start="208" data-end="227">Product Details</strong></h3>
+<ul data-start="229" data-end="538">
+ 	<li data-start="229" data-end="270">
+<p data-start="231" data-end="270"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian · <strong data-start="28" data-end="48" data-is-last-node="">No Preservatives</strong></span></p>
+</li>
+ 	<li data-start="271" data-end="312">
+<p data-start="273" data-end="312"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Fixed Quantity:</strong> 500 g pack</span></p>
+</li>
+ 	<li data-start="313" data-end="354">
+<p data-start="315" data-end="354"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Airtight, recyclable, food-grade jar</span></p>
+</li>
+ 	<li data-start="355" data-end="456">
+<p data-start="357" data-end="374"><strong data-start="357" data-end="372">Shelf Life:</strong></p>
+
+<ul data-start="377" data-end="456">
+ 	<li data-start="377" data-end="456">
+<p data-start="379" data-end="456"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Stays crisp for <strong data-start="16" data-end="29">2–3 weeks</strong> at room temperature in an airtight container</span></p>
+</li>
+</ul>
+</li>
+ 	<li data-start="457" data-end="498">
+<p data-start="459" data-end="498"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days via Shiprocket</span></p>
+</li>
+ 	<li data-start="499" data-end="538">
+<p data-start="501" data-end="538"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Bihar, India</span></p>
+</li>
+</ul>
+- [Bihari Maida Mathri – Homemade Traditional Savory Snack (500 g) | मठरी (मैदा)](https://biharkeswaad.shop/product/bihari-maida-mathri-homemade/): Authentic homemade Mathri (Maida) from Bihar, made using traditional recipes and ingredients.
+<h3 data-start="511" data-end="537"><strong data-start="518" data-end="537">Product Details</strong></h3>
+<ul data-start="539" data-end="826">
+ 	<li data-start="539" data-end="580">
+<p data-start="541" data-end="580"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian</span></p>
+</li>
+ 	<li data-start="581" data-end="622">
+<p data-start="583" data-end="622"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Weight Options:</strong> 500 g, 1 kg</span></p>
+</li>
+ 	<li data-start="623" data-end="664">
+<p data-start="625" data-end="664"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Recyclable food-grade box</span></p>
+</li>
+ 	<li data-start="665" data-end="744">
+<p data-start="667" data-end="744"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="15" data-is-only-node="">Shelf Life:</strong> Up to 3 weeks when stored in an airtight container</span></p>
+</li>
+ 	<li data-start="745" data-end="786">
+<p data-start="747" data-end="786"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days (via Shiprocket)</span></p>
+</li>
+ 	<li data-start="787" data-end="826">
+<p data-start="789" data-end="826"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Bihar, India</span></p>
+</li>
+</ul>
+- [Bihari Atta Mathri – Homemade Whole Wheat Savory Snack (500 g) | मठरी (आटा)](https://biharkeswaad.shop/product/bihari-atta-mathri-homemade/): Authentic homemade Mathri (Atta) from Bihar, made using traditional recipes and ingredients.
+<h3 data-start="462" data-end="488"><strong data-start="469" data-end="488">Product Details</strong></h3>
+<ul data-start="490" data-end="799">
+ 	<li data-start="490" data-end="531">
+<p data-start="492" data-end="531"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian · <strong data-start="28" data-end="48" data-is-last-node="">No Preservatives</strong></span></p>
+</li>
+ 	<li data-start="532" data-end="573">
+<p data-start="534" data-end="573"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Fixed Quantity:</strong> 500 g pack</span></p>
+</li>
+ 	<li data-start="574" data-end="615">
+<p data-start="576" data-end="615"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Airtight, recyclable, food-grade jar</span></p>
+</li>
+ 	<li data-start="616" data-end="717">
+<p data-start="618" data-end="635"><strong data-start="618" data-end="633">Shelf Life:</strong></p>
+
+<ul data-start="638" data-end="717">
+ 	<li data-start="638" data-end="717">
+<p data-start="640" data-end="717"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Remains fresh and crisp for <strong data-start="28" data-end="41">2–4 weeks</strong> at room temperature if stored properly</span></p>
+</li>
+</ul>
+</li>
+ 	<li data-start="718" data-end="759">
+<p data-start="720" data-end="759"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days via Shiprocket</span></p>
+</li>
+ 	<li data-start="760" data-end="799">
+<p data-start="762" data-end="799"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Bihar, India</span></p>
+</li>
+</ul>
+- [Bihari Khaja – Homemade Traditional Khaja (500 g) | खाजा](https://biharkeswaad.shop/product/bihari-khaja-homemade/): Authentic homemade Khaja from Bihar, made using traditional recipes and ingredients.
+<h3 data-start="476" data-end="502"><strong data-start="483" data-end="502">Product Details</strong></h3>
+<ul data-start="504" data-end="896">
+ 	<li data-start="504" data-end="545">
+<p data-start="506" data-end="545"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian · <strong data-start="28" data-end="48" data-is-last-node="">No Preservatives</strong></span></p>
+</li>
+ 	<li data-start="546" data-end="587">
+<p data-start="548" data-end="587"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Fixed Quantity:</strong> 500 g</span></p>
+</li>
+ 	<li data-start="588" data-end="629">
+<p data-start="590" data-end="629"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Food-safe, recyclable container</span></p>
+</li>
+ 	<li data-start="630" data-end="774">
+<p data-start="632" data-end="648"><strong data-start="632" data-end="647">Shelf Life:</strong></p>
+
+<ul data-start="651" data-end="774">
+ 	<li data-start="651" data-end="692">
+<p data-start="653" data-end="692"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">30 days</strong> at room temperature</span></p>
+</li>
+ 	<li data-start="695" data-end="774">
+<p data-start="697" data-end="774"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Up to <strong data-start="6" data-end="17">45 days</strong> when refrigerated</span></p>
+</li>
+</ul>
+</li>
+ 	<li data-start="775" data-end="816">
+<p data-start="777" data-end="816"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days (Shiprocket)</span></p>
+</li>
+ 	<li data-start="817" data-end="896">
+<p data-start="819" data-end="896"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Bihar, India.</span></p>
+</li>
+</ul>
+- [Bihari Shakkar Para – Homemade Sweet Shakarpara (500 g) | शक्कर पारा](https://biharkeswaad.shop/product/bihari-shakkar-para-homemade/): Authentic homemade Shakkar Para from Bihar, made using traditional recipes and ingredients.
+<h3 data-start="453" data-end="479"><strong data-start="460" data-end="479">Product Details</strong></h3>
+<ul data-start="481" data-end="874">
+ 	<li data-start="481" data-end="522">
+<p data-start="483" data-end="522"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian · <strong data-start="28" data-end="48" data-is-last-node="">No Preservatives</strong></span></p>
+</li>
+ 	<li data-start="523" data-end="564">
+<p data-start="525" data-end="564"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Fixed Quantity:</strong> 500 g per pack</span></p>
+</li>
+ 	<li data-start="565" data-end="606">
+<p data-start="567" data-end="606"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Airtight, food‑grade, recyclable jar</span></p>
+</li>
+ 	<li data-start="607" data-end="752">
+<p data-start="609" data-end="626"><strong data-start="609" data-end="624">Shelf Life:</strong></p>
+
+<ul data-start="629" data-end="752">
+ 	<li data-start="629" data-end="670">
+<p data-start="631" data-end="670"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Up to <strong data-start="6" data-end="17">2 weeks</strong> at ambient temperature</span></p>
+</li>
+ 	<li data-start="673" data-end="752">
+<p data-start="675" data-end="752"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Can stay crisp for <strong data-start="19" data-end="32">3–4 weeks</strong> if properly stored air-tight</span></p>
+</li>
+</ul>
+</li>
+ 	<li data-start="753" data-end="794">
+<p data-start="755" data-end="794"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days via Shiprocket</span></p>
+</li>
+ 	<li data-start="795" data-end="874">
+<p data-start="797" data-end="874"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Bihar, India</span></p>
+</li>
+</ul>
+- [Bihari Ghee‑Jaggery Thekua – Homemade Traditional Chhath Sweet (500 g) | घी-गुड़ ठेकुआ](https://biharkeswaad.shop/product/bihari-ghee-jaggery-thekua-homemade/): Authentic homemade Jaggery Thekua from Bihar, made using traditional recipes and ingredients.
+<h3 data-start="208" data-end="234"><strong data-start="215" data-end="234">Product Details</strong></h3>
+<ul data-start="236" data-end="563">
+ 	<li data-start="236" data-end="277">
+<p data-start="238" data-end="277"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian · <strong data-start="28" data-end="48" data-is-last-node="">No Preservatives</strong></span></p>
+</li>
+ 	<li data-start="278" data-end="319">
+<p data-start="280" data-end="319"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Fixed Quantity:</strong> 500 g</span></p>
+</li>
+ 	<li data-start="320" data-end="361">
+<p data-start="322" data-end="361"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Airtight, recyclable food-grade container</span></p>
+</li>
+ 	<li data-start="362" data-end="441">
+<p data-start="364" data-end="441"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="15" data-is-only-node="">Shelf Life:</strong> Up to <strong data-start="22" data-end="36">15–20 days</strong> at room temperature when stored properly</span></p>
+</li>
+ 	<li data-start="442" data-end="483">
+<p data-start="444" data-end="483"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days</span></p>
+</li>
+ 	<li data-start="484" data-end="563">
+<p data-start="486" data-end="563"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Made in Bihar using authentic Chhath Puja traditions</span></p>
+</li>
+</ul>
+- [Bihari Style Mango Pickle – Homemade Traditional Aam Ka Achaar (500 g) | आम का अचार](https://biharkeswaad.shop/product/bihari-mango-pickle-homemade/): Authentic homemade Mango Pickle from Bihar, made using traditional recipes and ingredients.
+<h3 data-start="253" data-end="279"><strong data-start="260" data-end="279">Product Details</strong></h3>
+<ul data-start="281" data-end="570">
+ 	<li data-start="281" data-end="322">
+<p data-start="283" data-end="322"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian • <strong data-start="28" data-end="48" data-is-last-node="">No Preservatives</strong></span></p>
+</li>
+ 	<li data-start="323" data-end="364">
+<p data-start="325" data-end="364"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Weight Options:</strong> 500 g</span></p>
+</li>
+ 	<li data-start="365" data-end="406">
+<p data-start="367" data-end="406"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Recyclable food-safe glass jar</span></p>
+</li>
+ 	<li data-start="407" data-end="486">
+<p data-start="409" data-end="486"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="15" data-is-only-node="">Shelf Life:</strong> Up to <strong data-start="22" data-end="35">12 months</strong> when sealed and stored properly.</span></p>
+</li>
+ 	<li data-start="487" data-end="528">
+<p data-start="489" data-end="528"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days (via Shiprocket)</span></p>
+</li>
+ 	<li data-start="529" data-end="570">
+<p data-start="531" data-end="570"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Bihar, India</span></p>
+</li>
+</ul>
+- [Bihari Stuffed Mango Pickle – Homemade Aam Ka Bharwa Achar (500 g) | आम का भरवां अचार](https://biharkeswaad.shop/product/bihari-stuffed-mango-pickle-homemade/): Authentic homemade Stuffed Mango Pickle from Bihar, made using traditional recipes and ingredients.
+<h3 data-start="165" data-end="191"><strong data-start="172" data-end="191">Product Details</strong></h3>
+<ul data-start="193" data-end="480">
+ 	<li data-start="193" data-end="234">
+<p data-start="195" data-end="234"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian · <strong data-start="28" data-end="48" data-is-last-node="">No Preservatives</strong></span></p>
+</li>
+ 	<li data-start="235" data-end="276">
+<p data-start="237" data-end="276"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Fixed Quantity:</strong> 500 g per jar</span></p>
+</li>
+ 	<li data-start="277" data-end="318">
+<p data-start="279" data-end="318"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Recyclable, food-safe glass jar with airtight lid</span></p>
+</li>
+ 	<li data-start="319" data-end="398">
+<p data-start="321" data-end="398"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="15" data-is-only-node="">Shelf Life:</strong> Up to <strong data-start="22" data-end="35">12 months</strong> when stored properly</span></p>
+</li>
+ 	<li data-start="399" data-end="440">
+<p data-start="401" data-end="440"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days via Shiprocket</span></p>
+</li>
+ 	<li data-start="441" data-end="480">
+<p data-start="443" data-end="480"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Home‑made in Bihar, India</span></p>
+</li>
+</ul>
+- [Bihar Style Mango–Jackfruit Pickle – Homemade Achaar Combo (500 g) | आम-कटहल का अचार](https://biharkeswaad.shop/product/bihari-mango-jackfruit-pickle-homemade/): Authentic homemade Mango-Jackfruit Pickle from Bihar, made using traditional recipes and ingredients.
+<h3 data-start="165" data-end="191"><strong data-start="172" data-end="191">Product Details</strong></h3>
+<ul data-start="193" data-end="480">
+ 	<li data-start="193" data-end="234">
+<p data-start="195" data-end="234"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian · <strong data-start="28" data-end="48" data-is-last-node="">No Preservatives</strong></span></p>
+</li>
+ 	<li data-start="235" data-end="276">
+<p data-start="237" data-end="276"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Fixed Quantity:</strong> 500 g jar</span></p>
+</li>
+ 	<li data-start="277" data-end="318">
+<p data-start="279" data-end="318"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Glass jar with airtight lid — recyclable & food-safe</span></p>
+</li>
+ 	<li data-start="319" data-end="398">
+<p data-start="321" data-end="398"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="15" data-is-only-node="">Shelf Life:</strong> Up to <strong data-start="22" data-end="35">12 months</strong>, naturally preserved in mustard oil</span></p>
+</li>
+ 	<li data-start="399" data-end="440">
+<p data-start="401" data-end="440"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days via Shiprocket</span></p>
+</li>
+ 	<li data-start="441" data-end="480">
+<p data-start="443" data-end="480"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Handmade in Bihar, India using traditional method</span></p>
+</li>
+</ul>
+- [Bihari Pedakiya – Dry Fruit & Khoya Gujiya (500 g) | पेड़किया | ड्राई फ्रूट खोवा गुजिया](https://biharkeswaad.shop/product/bihari-pedakia-dry-fruit-khowa-gujiya-homemade/): Authentic homemade Pedakia from Bihar, made using traditional recipes and ingredients.
+<h3 data-start="188" data-end="214"><strong data-start="195" data-end="214">Product Details</strong></h3>
+<ul data-start="216" data-end="503">
+ 	<li data-start="216" data-end="257">
+<p data-start="218" data-end="257"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian · <strong data-start="28" data-end="48" data-is-last-node="">No Preservatives</strong></span></p>
+</li>
+ 	<li data-start="258" data-end="299">
+<p data-start="260" data-end="299"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Fixed Quantity:</strong> 500 g</span></p>
+</li>
+ 	<li data-start="300" data-end="341">
+<p data-start="302" data-end="341"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Food-grade, recyclable container</span></p>
+</li>
+ 	<li data-start="342" data-end="421">
+<p data-start="344" data-end="421"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="15" data-is-only-node="">Shelf Life:</strong> Up to <strong data-start="22" data-end="35">7–10 days</strong> at room temperature; refrigerate in warm weather</span></p>
+</li>
+ 	<li data-start="422" data-end="463">
+<p data-start="424" data-end="463"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days (via Shiprocket)</span></p>
+</li>
+ 	<li data-start="464" data-end="503">
+<p data-start="466" data-end="503"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Handmade in Bihar, India</span></p>
+</li>
+</ul>
+- [Bihari Anarsa – Homemade Traditional Sweet (500 g) | अनरसा](https://biharkeswaad.shop/product/bihari-anarsa-homemade/): Authentic homemade Anarsa from Bihar, made using traditional recipes and ingredients.
+<ul data-start="437" data-end="686">
+ 	<li data-start="437" data-end="478">
+<p data-start="439" data-end="478"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian • <strong data-start="28" data-end="43">Gluten-Free</strong> (made with rice flour)</span></p>
+</li>
+ 	<li data-start="479" data-end="520">
+<p data-start="481" data-end="520"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Weight Options:</strong> 500 g</span></p>
+</li>
+ 	<li data-start="521" data-end="562">
+<p data-start="523" data-end="562"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Recyclable, food-grade box</span></p>
+</li>
+ 	<li data-start="563" data-end="604">
+<p data-start="565" data-end="604"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="15" data-is-only-node="">Shelf Life:</strong> 7–10 days (refrigerated)</span></p>
+</li>
+ 	<li data-start="605" data-end="646">
+<p data-start="607" data-end="646"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days (handled via Shiprocket)</span></p>
+</li>
+ 	<li data-start="647" data-end="686">
+<p data-start="649" data-end="686"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Made in Bihar, India</span></p>
+</li>
+</ul>
+- [Bihari Mudhi Lai – Homemade Puffed Rice & Jaggery Balls (500 g) | मुढ़ी लाई](https://biharkeswaad.shop/product/bihari-mudhi-lai-homemade/): Sweet and crunchy Mudhi Lai made from puffed rice and jaggery — Bihar’s nostalgic snack.
+<h3 data-start="201" data-end="227"><strong data-start="208" data-end="227">Product Details</strong></h3>
+<ul data-start="229" data-end="544">
+ 	<li data-start="229" data-end="270">
+<p data-start="231" data-end="270"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian · <strong data-start="28" data-end="48" data-is-last-node="">No Preservatives</strong></span></p>
+</li>
+ 	<li data-start="271" data-end="312">
+<p data-start="273" data-end="312"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Fixed Quantity:</strong> 500 g pack</span></p>
+</li>
+ 	<li data-start="313" data-end="354">
+<p data-start="315" data-end="354"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Food-safe, recyclable container</span></p>
+</li>
+ 	<li data-start="355" data-end="462">
+<p data-start="357" data-end="374"><strong data-start="357" data-end="372">Shelf Life:</strong></p>
+
+<ul data-start="377" data-end="462">
+ 	<li data-start="377" data-end="418">
+<p data-start="379" data-end="418"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Best within <strong data-start="12" data-end="26">15–20 days</strong> if stored in an airtight container at room temperature</span></p>
+</li>
+ 	<li data-start="421" data-end="462">
+<p data-start="423" data-end="462"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">May last up to <strong data-start="15" data-end="26">25 days</strong> in a cool, dry environment</span></p>
+</li>
+</ul>
+</li>
+ 	<li data-start="463" data-end="504">
+<p data-start="465" data-end="504"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days</span></p>
+</li>
+ 	<li data-start="505" data-end="544">
+<p data-start="507" data-end="544"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Bihar, India</span></p>
+</li>
+</ul>
+- [Bihari Atta Namak Para – Homemade Whole Wheat Nimki (500 g) | नमक पारा | निमकी (आटा)](https://biharkeswaad.shop/product/bihari-namak-para-atta-nimki-homemade/): Crispy, salted wheat-based Nimki with ajwain, perfect for tea-time or festive snacking.
+<h3 data-start="598" data-end="624"><strong data-start="605" data-end="624">Product Details</strong></h3>
+<ul data-start="626" data-end="1030">
+ 	<li data-start="626" data-end="678">
+<p data-start="628" data-end="678"><strong data-start="628" data-end="642">Diet Type:</strong> Vegetarian · <strong data-start="656" data-end="676">No Preservatives</strong></p>
+</li>
+ 	<li data-start="679" data-end="713">
+<p data-start="681" data-end="713"><strong data-start="681" data-end="700">Fixed Quantity:</strong> 500 g pack</p>
+</li>
+ 	<li data-start="714" data-end="769">
+<p data-start="716" data-end="769"><strong data-start="716" data-end="730">Packaging:</strong> Airtight, food-grade, recyclable jar</p>
+</li>
+ 	<li data-start="770" data-end="897">
+<p data-start="772" data-end="789"><strong data-start="772" data-end="787">Shelf Life:</strong></p>
+
+<ul data-start="792" data-end="897">
+ 	<li data-start="792" data-end="897">
+<p data-start="794" data-end="897">Keeps fresh and crunchy for <strong data-start="822" data-end="841">up to 2–3 weeks</strong> at room temperature, stored in an airtight container.</p>
+</li>
+</ul>
+</li>
+ 	<li data-start="898" data-end="955">
+<p data-start="900" data-end="955"><strong data-start="900" data-end="918">Delivery Time:</strong> 3–5 business days (via Shiprocket)</p>
+</li>
+ 	<li data-start="956" data-end="1030">
+<p data-start="958" data-end="1030"><strong data-start="958" data-end="969">Origin:</strong> Bihar, India</p>
+</li>
+</ul>
+- [Bihari Pantua – Homemade Traditional Sweet (500 g) | पन्तुआ](https://biharkeswaad.shop/product/bihari-pantua-homemade/): Rich, juicy Pantua made from khoya and soaked in flavored syrup. Bihar’s soft, dark, and decadent sweet.
+<h3 data-start="495" data-end="521"><strong data-start="502" data-end="521">Product Details</strong></h3>
+<ul data-start="523" data-end="838">
+ 	<li data-start="523" data-end="564">
+<p data-start="525" data-end="564"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian · <strong data-start="28" data-end="48" data-is-last-node="">No Preservatives</strong></span></p>
+</li>
+ 	<li data-start="565" data-end="606">
+<p data-start="567" data-end="606"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Fixed Quantity:</strong> 500 g</span></p>
+</li>
+ 	<li data-start="607" data-end="648">
+<p data-start="609" data-end="648"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Food-safe, recyclable container</span></p>
+</li>
+ 	<li data-start="649" data-end="756">
+<p data-start="651" data-end="668"><strong data-start="651" data-end="666">Shelf Life:</strong></p>
+
+<ul data-start="671" data-end="756">
+ 	<li data-start="671" data-end="712">
+<p data-start="673" data-end="712"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Best within <strong data-start="12" data-end="25">7–10 days</strong> at room temperature</span></p>
+</li>
+ 	<li data-start="715" data-end="756">
+<p data-start="717" data-end="756"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Up to <strong data-start="6" data-end="17">14 days</strong> if refrigerated (allow return to room temp before serving)</span></p>
+</li>
+</ul>
+</li>
+ 	<li data-start="757" data-end="798">
+<p data-start="759" data-end="798"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days</span></p>
+</li>
+ 	<li data-start="799" data-end="838">
+<p data-start="801" data-end="838"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Handmade in Bihar, inspired by classic Eastern traditions</span></p>
+</li>
+</ul>
+- [Bihari Laung Lata – Homemade Lavang Latika Sweet (500 g) | लौंग लता](https://biharkeswaad.shop/product/bihari-laung-lata-homemade/): Crispy Laung Lata filled with khoya and nuts, flavored with clove and sugar syrup. A rich Bihari delight!
+<h3 data-start="194" data-end="220"><strong data-start="201" data-end="220">Product Details</strong></h3>
+<ul data-start="222" data-end="577">
+ 	<li data-start="222" data-end="263">
+<p data-start="224" data-end="263"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian · <strong data-start="28" data-end="48" data-is-last-node="">No Preservatives</strong></span></p>
+</li>
+ 	<li data-start="264" data-end="305">
+<p data-start="266" data-end="305"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Fixed Quantity:</strong> 500 g per jar</span></p>
+</li>
+ 	<li data-start="306" data-end="347">
+<p data-start="308" data-end="347"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Food-grade, airtight, recyclable container</span></p>
+</li>
+ 	<li data-start="348" data-end="455">
+<p data-start="350" data-end="367"><strong data-start="350" data-end="365">Shelf Life:</strong></p>
+
+<ul data-start="370" data-end="455">
+ 	<li data-start="370" data-end="411">
+<p data-start="372" data-end="411"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Best within <strong data-start="12" data-end="25">7–10 days</strong> at room temperature</span></p>
+</li>
+ 	<li data-start="414" data-end="455">
+<p data-start="416" data-end="455"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out">Up to <strong data-start="6" data-end="17">14 days</strong> if refrigerated (allow to warm to room temp before serving)</span></p>
+</li>
+</ul>
+</li>
+ 	<li data-start="456" data-end="497">
+<p data-start="458" data-end="497"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days</span></p>
+</li>
+ 	<li data-start="498" data-end="577">
+<p data-start="500" data-end="577"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Bihar, India</span></p>
+</li>
+</ul>
+- [Bihari Ghee Balushahi – Homemade Balushahi Sweet (500 g) | बालूशाही](https://biharkeswaad.shop/product/bihari-ghee-balushahi-homemade/): Flaky, golden, and syrup-soaked Bihari Balushahi, handmade with desi ghee. A festive treat you can't resist!
+<h3 data-start="194" data-end="220"><strong data-start="201" data-end="220">Product Details</strong></h3>
+<ul data-start="222" data-end="509">
+ 	<li data-start="222" data-end="263">
+<p data-start="224" data-end="263"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Diet Type:</strong> Vegetarian · <strong data-start="28" data-end="48" data-is-last-node="">No Preservatives</strong></span></p>
+</li>
+ 	<li data-start="264" data-end="305">
+<p data-start="266" data-end="305"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="19" data-is-only-node="">Fixed Quantity:</strong> 500 g</span></p>
+</li>
+ 	<li data-start="306" data-end="347">
+<p data-start="308" data-end="347"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="14" data-is-only-node="">Packaging:</strong> Food‑grade, recyclable container</span></p>
+</li>
+ 	<li data-start="348" data-end="427">
+<p data-start="350" data-end="427"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="15" data-is-only-node="">Shelf Life:</strong> Best enjoyed within <strong data-start="36" data-end="49">7–10 days</strong> at room temperature</span></p>
+</li>
+ 	<li data-start="428" data-end="469">
+<p data-start="430" data-end="469"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="18" data-is-only-node="">Delivery Time:</strong> 3–5 business days (via Shiprocket)</span></p>
+</li>
+ 	<li data-start="470" data-end="509">
+<p data-start="472" data-end="509"><span class="relative -mx-px my-[-0.2rem] rounded px-px py-[0.2rem] transition-colors duration-100 ease-in-out"><strong data-start="0" data-end="11" data-is-only-node="">Origin:</strong> Homemade in Bihar, India</span></p>
+</li>
+</ul>
+
+
+[comment]: # (Generated by Hostinger Tools Plugin)

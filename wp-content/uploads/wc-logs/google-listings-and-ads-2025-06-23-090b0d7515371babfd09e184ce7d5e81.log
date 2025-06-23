@@ -1,0 +1,110 @@
+2025-06-23T16:15:10+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\Ads::get_account_details {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v18.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "CUSTOMER_NOT_ENABLED"
+                    },
+                    "message": "The customer account can't be accessed because it is not yet enabled or has been deactivated."
+                }
+            ],
+            "requestId": "XV8hdAq35EcFcVqShz9--A"
+        }
+    ]
+}
+2025-06-23T16:15:10+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\API\Google\Ads::get_account_details {
+    "message": "The caller does not have permission",
+    "code": 7,
+    "status": "PERMISSION_DENIED",
+    "details": [
+        {
+            "@type": "type.googleapis.com\/google.ads.googleads.v18.errors.GoogleAdsFailure",
+            "errors": [
+                {
+                    "errorCode": {
+                        "authorizationError": "CUSTOMER_NOT_ENABLED"
+                    },
+                    "message": "The customer account can't be accessed because it is not yet enabled or has been deactivated."
+                }
+            ],
+            "requestId": "IajdIisiHZBrT5u4U8K1dQ"
+        }
+    ]
+}
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 75): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 76): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 77): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 78): ["Snacks > Salty Snacks","Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 80): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 81): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 82): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 83): ["Pickles"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 84): ["Pickles"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 85): ["Pickles"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 86): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 87): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1768): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1769): ["Snacks > Salty Snacks","Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1770): ["Snacks > Salty Snacks","Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1772): ["Snacks > Salty Snacks","Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1773): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:17:18+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1812): ["Pickles"].
+2025-06-23T16:17:21+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 18 products:
+[{"woocommerce_id":75,"google_id":"online:en:IN:gla_75"},{"woocommerce_id":76,"google_id":"online:en:IN:gla_76"},{"woocommerce_id":77,"google_id":"online:en:IN:gla_77"},{"woocommerce_id":78,"google_id":"online:en:IN:gla_78"},{"woocommerce_id":80,"google_id":"online:en:IN:gla_80"},{"woocommerce_id":81,"google_id":"online:en:IN:gla_81"},{"woocommerce_id":82,"google_id":"online:en:IN:gla_82"},{"woocommerce_id":83,"google_id":"online:en:IN:gla_83"},{"woocommerce_id":84,"google_id":"online:en:IN:gla_84"},{"woocommerce_id":85,"google_id":"online:en:IN:gla_85"},{"woocommerce_id":86,"google_id":"online:en:IN:gla_86"},{"woocommerce_id":87,"google_id":"online:en:IN:gla_87"},{"woocommerce_id":1768,"google_id":"online:en:IN:gla_1768"},{"woocommerce_id":1769,"google_id":"online:en:IN:gla_1769"},{"woocommerce_id":1770,"google_id":"online:en:IN:gla_1770"},{"woocommerce_id":1772,"google_id":"online:en:IN:gla_1772"},{"woocommerce_id":1773,"google_id":"online:en:IN:gla_1773"},{"woocommerce_id":1812,"google_id":"online:en:IN:gla_1812"}]
+2025-06-23T16:17:52+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 83): ["Pickles"].
+2025-06-23T16:17:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":83,"google_id":"online:en:IN:gla_83"}]
+2025-06-23T16:17:53+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1812): ["Pickles"].
+2025-06-23T16:17:54+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1812,"google_id":"online:en:IN:gla_1812"}]
+2025-06-23T16:17:54+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 81): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:17:56+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":81,"google_id":"online:en:IN:gla_81"}]
+2025-06-23T16:17:56+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1769): ["Snacks > Salty Snacks","Snacks"].
+2025-06-23T16:17:57+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1769,"google_id":"online:en:IN:gla_1769"}]
+2025-06-23T16:17:57+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 78): ["Snacks > Salty Snacks","Snacks"].
+2025-06-23T16:17:58+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":78,"google_id":"online:en:IN:gla_78"}]
+2025-06-23T16:17:58+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 75): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:17:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":75,"google_id":"online:en:IN:gla_75"}]
+2025-06-23T16:17:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 86): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:18:01+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":86,"google_id":"online:en:IN:gla_86"}]
+2025-06-23T16:18:01+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1768): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:18:02+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1768,"google_id":"online:en:IN:gla_1768"}]
+2025-06-23T16:18:02+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 76): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:18:03+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":76,"google_id":"online:en:IN:gla_76"}]
+2025-06-23T16:18:03+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1770): ["Snacks > Salty Snacks","Snacks"].
+2025-06-23T16:24:57+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 80): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:24:58+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":80,"google_id":"online:en:IN:gla_80"}]
+2025-06-23T16:24:58+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1772): ["Snacks > Salty Snacks","Snacks"].
+2025-06-23T16:24:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1772,"google_id":"online:en:IN:gla_1772"}]
+2025-06-23T16:24:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 77): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:24:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":77,"google_id":"online:en:IN:gla_77"}]
+2025-06-23T16:24:59+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 82): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:25:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":82,"google_id":"online:en:IN:gla_82"}]
+2025-06-23T16:25:00+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 87): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:25:01+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":87,"google_id":"online:en:IN:gla_87"}]
+2025-06-23T16:25:01+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 1773): ["Snacks","Snacks > Sweet Snacks"].
+2025-06-23T16:25:02+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":1773,"google_id":"online:en:IN:gla_1773"}]
+2025-06-23T16:25:02+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 84): ["Pickles"].
+2025-06-23T16:25:03+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":84,"google_id":"online:en:IN:gla_84"}]
+2025-06-23T16:25:03+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\WCProductAdapter::map_product_categories Product category (ID: 85): ["Pickles"].
+2025-06-23T16:25:04+00:00 DEBUG Automattic\WooCommerce\GoogleListingsAndAds\Product\ProductSyncer::update_by_batch_requests Submitted 1 products:
+[{"woocommerce_id":85,"google_id":"online:en:IN:gla_85"}]
