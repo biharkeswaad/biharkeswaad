@@ -1,0 +1,71 @@
+# WordPress Core Files
+/wp-admin/
+/wp-includes/
+index.php
+wp-*.php
+xmlrpc.php
+readme.html
+license.txt
+
+# Third-party Plugins (install via admin panel)
+/wp-content/plugins/
+# Exception: Keep custom plugins/integrations
+!/wp-content/plugins/bihar-ke-swaad-custom/
+
+# WordPress Uploads
+/wp-content/uploads/
+
+# WordPress Languages
+/wp-content/languages/
+
+# Default Themes (keep custom themes)
+/wp-content/themes/twenty*/
+
+# Configuration Files (sensitive data)
+wp-config.php
+.htaccess
+
+# Caching
+/wp-content/cache/
+/wp-content/litespeed/
+
+# Logs
+error_log
+debug.log
+/wp-content/debug.log
+
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+*~
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OneSignal SDK Files (auto-generated)
+/wp-content/plugins/onesignal-free-web-push-notifications/
+
+# Backup Files
+*.bak
+*.backup
+wp-content/backup*
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Node Modules (if using build tools)
+node_modules/
+npm-debug.log*
+
+# Composer (if using)
+/vendor/
